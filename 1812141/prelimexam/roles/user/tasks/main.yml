@@ -1,7 +1,0 @@
----
-- name: Usr
-  user:
-    name: "{{ user}}"
-    shell: /bin/bash/
-
-# tasks file for roles/user

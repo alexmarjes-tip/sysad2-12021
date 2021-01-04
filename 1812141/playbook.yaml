@@ -1,7 +1,0 @@
----
-- name: marjes
-  hosts: ubuntu
-  roles:
-    - install
-    - configure
-    - plug
